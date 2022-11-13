@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find University</string>
+    <string name="find_universities">find universities</string>
+    <string name="country">country</string>
+    <string name="links">links:</string>
+    <string name="error">Universities of this country can not be loaded.</string>
+</resources>
